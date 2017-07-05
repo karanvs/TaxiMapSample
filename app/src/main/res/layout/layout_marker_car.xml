@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/custom_marker_view"
+    android:layout_width="50dp"
+    android:layout_height="50dp"
+    >
+
+
+  <ImageView
+      android:layout_width="50dp"
+      android:layout_height="50dp"
+      android:id="@+id/marker"
+      android:src="@drawable/marker_car"/>
+  <ImageView
+      android:id="@+id/profile_image"
+      android:layout_width="40dp"
+      android:layout_height="40dp"
+      android:layout_margin="5dp"
+      android:scaleType="fitXY"
+      android:layout_centerHorizontal="true"
+      />
+
+</RelativeLayout>

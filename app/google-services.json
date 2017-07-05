@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "564445937734",
+    "project_id": "taxisample-172806"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564445937734:android:22f2364281105565",
+        "android_client_info": {
+          "package_name": "com.veer.taxisample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564445937734-2em93kkkf680on8l16na27sse79vo3al.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "564445937734-k7u1luum6psb51uru51b1jrusu6eq84l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.veer.taxisample",
+            "certificate_hash": "41a084f8a5ad6513dc9f23a3ce5df318bd487d3c"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2EePQw6Ovx052RVRlbsYPATQICcQaOO4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
